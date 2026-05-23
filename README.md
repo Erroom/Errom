@@ -13,8 +13,8 @@ I am an aspiring **Data Scientist** and Bachelor of Computer Applications (BCA) 
 
 ### 🛠️ My Technical Toolkit
 
-* **Programming Languages:** Python, MySQL,  PHP, Javascript, HTML, CSS, SQLite
-* **Data Visualization:** Power BI, Excel,  Power BI, Matplotlib, Seaborn, A/B Testing
+* **Programming Languages:** Python, MySQL, PHP, Javascript, HTML, CSS, SQLite
+* **Data Visualization:** Power BI, Excel, Matplotlib, Seaborn, A/B Testing
 * **Deployment & Tools:** Git, GitHub, Git Bash, Hugging Face, Gradio, 
 
 ---
@@ -31,8 +31,8 @@ I am an aspiring **Data Scientist** and Bachelor of Computer Applications (BCA) 
 
 ### 📊 GitHub Stats & Core Focus
   
-![Anit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![Anit's GitHub Stats](https://github-readme-stats.vercel.app/api?Errom=Errom&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Errom=Errom &layout=compact&theme=radical)
 
 ---
 
