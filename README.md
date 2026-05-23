@@ -30,7 +30,6 @@ I am an aspiring **Data Scientist** and Bachelor of Computer Applications (BCA) 
 ---
 
 ### 📊 GitHub Stats & Core Focus
-![Anit Chaudhary](https://github-readme-stats.vercel.app/api?username=Errom&show_icons=true&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Errom&theme=tokyonight)
 
