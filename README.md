@@ -30,12 +30,17 @@ I am an aspiring **Data Scientist** and Bachelor of Computer Applications (BCA) 
 ---
 
 ### 📊 GitHub Stats & Core Focus
-![Anit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Erroom&show_icons=true&theme=radical)
+![Anit Chaudhary](https://github-readme-stats.vercel.app/api?username=Errom&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Erroom&layout=compact&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=Errom&theme=tokyonight)
+
+---
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Errom&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
 ### 📫 Connect With Me
-* **LinkedIn:** [Anit Chaudhary](www.linkedin.com/in/anit-chaudhary-579333381/)
+* **LinkedIn:** [Anit Chaudhary]()
 * **Email:** anitc910@gmail.com
