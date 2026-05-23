@@ -1,1 +1,41 @@
-# Errom
+# Hi there, I'm Anit Chaudhary 👋
+
+I am an aspiring **Data Scientist** and Bachelor of Computer Applications (BCA) student at Tribhuvan University. I specialize in building end-to-end data pipelines, predictive modeling, and converting raw datasets into interactive, actionable business solutions.
+
+---
+
+### 🔭 My Interests
+
+* **Machine Learning & AI:** Designing, training, and deploying predictive models (such as tree-based ensemble methods and classification algorithms) to solve localized, real-world problems.
+* **Generative AI & RAG:** Exploring LLM orchestration architectures, vector databases, and Retrieval-Augmented Generation (RAG) pipelines to build intelligent contextual tools.
+* **Big Data Analytics:** Scaling data processing pipelines using distributed frameworks like Apache Hadoop and Apache Spark to handle high-volume data ingestion.
+* **Data Visualization:** Synthesizing complex analytical outputs into clean, conversion-focused visual stories using Power BI and Tableau.
+
+### 🛠️ My Technical Toolkit
+
+* **Programming Languages:** Python, MySQL,  PHP, Javascript, HTML, CSS, SQLite
+* **Data Visualization:** Power BI, Excel,  Power BI, Matplotlib, Seaborn, A/B Testing
+* **Deployment & Tools:** Git, GitHub, Git Bash, Hugging Face, Gradio, 
+
+---
+
+### 🚀 Featured Projects
+
+#### 1. [Nepal Landslide and Flood Prediction System] https://huggingface.co/spaces/lameina/Test_RandomForest_model
+* **Overview:** An environmental predictive model built to analyze rolling rainfall sums and historical disaster metrics in Nepal.
+* **Tech Stack:** Python, NASA POWER API, BIPAD Portal Data, Random Forest Algorithm, Gradio, Hugging Face.
+* **Key Achievement:** Successfully validated model performance against the historical 2021 Melamchi flood data and deployed it live on Hugging Face.
+
+
+---
+
+### 📊 GitHub Stats & Core Focus
+  
+![Anit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+
+---
+
+### 📫 Connect With Me
+* **LinkedIn:** www.linkedin.com/in/anit-chaudhary-579333381/
+* **Email:** anitc910@gmail.com
