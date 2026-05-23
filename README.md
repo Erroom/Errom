@@ -41,5 +41,4 @@ I am an aspiring **Data Scientist** and Bachelor of Computer Applications (BCA) 
 ---
 
 ### 📫 Connect With Me
-* **LinkedIn:** [Anit Chaudhary]()
 * **Email:** anitc910@gmail.com
