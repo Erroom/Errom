@@ -30,12 +30,12 @@ I am an aspiring **Data Scientist** and Bachelor of Computer Applications (BCA) 
 ---
 
 ### 📊 GitHub Stats & Core Focus
-  
-![Anit's GitHub Stats](https://github-readme-stats.vercel.app/api?Errom=Errom&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Errom=Errom &layout=compact&theme=radical)
+![Anit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Erroom&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Erroom&layout=compact&theme=radical)
 
 ---
 
 ### 📫 Connect With Me
-* **LinkedIn:** www.linkedin.com/in/anit-chaudhary-579333381/
+* **LinkedIn:** [Anit Chaudhary](www.linkedin.com/in/anit-chaudhary-579333381/)
 * **Email:** anitc910@gmail.com
