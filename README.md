@@ -1,7 +1,7 @@
 # Hi there, I'm Anit Chaudhary 👋
 
 I am an aspiring **Data Scientist** and Bachelor of Computer Applications (BCA) student at Tribhuvan University. I specialize in building end-to-end data pipelines, predictive modeling, and converting raw datasets into interactive, actionable business solutions.
-
+* **Email:** anitc910@gmail.com
 ---
 
 ### 🔭 My Interests
