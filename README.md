@@ -10,6 +10,8 @@ I am an aspiring in **Data Science** and Bachelor of Computer Applications (BCA)
 * **Generative AI & RAG:** Exploring LLM orchestration architectures, vector databases, and Retrieval-Augmented Generation (RAG) pipelines to build intelligent contextual tools.
 * **Big Data Analytics:** Scaling data processing pipelines using distributed frameworks like Apache Hadoop and Apache Spark to handle high-volume data ingestion.
 * **Data Visualization:** Synthesizing complex analytical outputs into clean, conversion-focused visual stories using Power BI and Tableau.
+  
+---
 
 ### 🛠️ My Technical Toolkit
 
