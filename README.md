@@ -36,6 +36,12 @@ I am an aspiring in **Data Science** and Bachelor of Computer Applications (BCA)
 [![GitHub Streak](https://streak-stats.demolab.com?user=Erroom&theme=tokyonight)](https://git.io/streak-stats)
 
 ---
+
+## 💻 Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Erroom&layout=compact&theme=tokyonight)
+
+---
+
 ## 🏆 GitHub Trophies
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Erroom&show_icons=true&theme=tokyonight)
 
