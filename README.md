@@ -37,8 +37,8 @@ I am an aspiring in **Data Science** and Bachelor of Computer Applications (BCA)
 
 ---
 ## 🏆 GitHub Trophies
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Erroom&show_icons=true&theme=tokyonight)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Errom&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
