@@ -39,5 +39,3 @@ I am an aspiring in **Data Science** and Bachelor of Computer Applications (BCA)
 
 ### 📫 Connect With Me
 * **Email:** anitc910@gmail.com
-
----
