@@ -35,6 +35,8 @@ I am an aspiring in **Data Science** and Bachelor of Computer Applications (BCA)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Erroom&theme=tokyonight)](https://git.io/streak-stats)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
+
 ---
 
 ## 💻 Top Languages
